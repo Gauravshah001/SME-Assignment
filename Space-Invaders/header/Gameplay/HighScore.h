@@ -9,7 +9,7 @@ namespace Gameplay
         int score;
     };
 
-    static class HighScore
+    class HighScore
     {
     public:
         static void saveHighScore(const HighScoreData& highScore);
