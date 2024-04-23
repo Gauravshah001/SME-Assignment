@@ -54,7 +54,8 @@ namespace Player
         const float tripple_laser_position_offset = 30.f;
 
         const float player_movement_speed = 350.0f;
-        static const int invincible_player_alpha = 170.f;
+        //static const int invincible_player_alpha = 170.f; change to
+        const float invincible_player_alpha = 170.f;
 
         PlayerModel();
         ~PlayerModel();
