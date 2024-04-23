@@ -1,5 +1,4 @@
 # SME-Assignment
-# SME-Assignment
 
 ## Part1: Setting up your Project 
 It Took me only 15 min to setup the project. I have made the following changes:
