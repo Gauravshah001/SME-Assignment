@@ -23,6 +23,14 @@ Fixed the bug in the code. The bug was in following file: Took me only 3 hours t
     to
    `const float invincible_player_alpha = 170.f;`
 
+3.Space-Invaders/header/Player/PlayerController.h
+ PlayerView* player_view;
+  	PlayerModel* player_model;
+  changed line 20 to
+  int PlayerView;* player_view
+        PlayerModel* player_model
+
+
 
    //Although i don't have that much idea of game development but I tried my best resolve the bugs and contributed as much i can using gathering resources and watching 
     vedious from youtube 
